@@ -48,4 +48,13 @@
       <version>PR75819</version>
     </dependency>
   </dependencies>
+
+
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <url>https://maven.pkg.github.com/mgonzal1/test-pkg</url>
+        </repository>
+    </distributionManagement>
+
 </project>
